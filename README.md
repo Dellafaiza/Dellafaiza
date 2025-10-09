@@ -35,35 +35,44 @@ const dellafaiza = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### 📱 Mobile App Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Backend as a Service (BaaS)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🔧 Framework
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🎨 Software
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📚 Other
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
 
@@ -185,6 +194,30 @@ Stay tuned! 🚀
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <br/>
+  
+  <a href="https://github.com/Dellafaiza/Dellafaiza/blob/main/.github/workflows/snake.yml">
+    <img src="https://img.shields.io/badge/View_Workflow-Snake-success?style=for-the-badge&logo=github-actions&logoColor=white" alt="Snake Workflow"/>
+  </a>
+</div>
+
+---
+
+## 👾 Pacman Eating My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph.svg">
+  </picture>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/Dellafaiza/Dellafaiza/blob/main/.github/workflows/pacman.yml">
+    <img src="https://img.shields.io/badge/View_Workflow-Pacman-blue?style=for-the-badge&logo=github-actions&logoColor=white" alt="Pacman Workflow"/>
+  </a>
 </div>
 
 ---
@@ -274,6 +307,86 @@ Frontend Development    ████████████░░░░░░�
 Mobile Development      ████████░░░░░░░░░░░░░░░░ 35%
 DevOps & Cloud          ████░░░░░░░░░░░░░░░░░░░░ 20%
 ```
+
+---
+
+## 🎯 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 I'm currently working on
+- **UPTD SDN 1 Pabean Ilir** - School Website & PPDB System
+- **SMPN Unggulan Sindang** - Zonation-based Admission System
+- **Talesmith Books App** - Android Book Reader
+
+</td>
+<td width="50%">
+
+### 🤝 I'm looking to collaborate on
+- Web Development Projects (Laravel/React)
+- API Development & Integration
+- Open Source Projects
+- Learning & Study Groups
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🆘 I'm looking for help with
+- Advanced Mobile Development (Kotlin)
+- DevOps & Cloud Deployment
+- Code Reviews & Best Practices
+
+</td>
+<td width="50%">
+
+### 🌱 I'm currently learning
+- Node.js & Express.js
+- Firebase & Cloud Functions
+- Mobile Backend Integration
+- Docker & CI/CD
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 Ask me about
+- Laravel & PHP Development
+- RESTful API Design
+- MySQL Database Design
+- React.js & JavaScript
+
+</td>
+<td width="50%">
+
+### 📫 How to reach me
+- **Email:** dellafaiza@example.com
+- **LinkedIn:** linkedin.com/in/dellafaiza
+- **Portfolio:** dellafaiza.github.io
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📂 All of my projects are available at
+- **GitHub:** [github.com/Dellafaiza](https://github.com/Dellafaiza)
+- **Portfolio:** Coming Soon! 🚀
+
+</td>
+<td width="50%">
+
+### ⚡ Fun fact
+**I debug code faster than I debug my life! 🐛**  
+*Also, I can code while listening to K-pop! 🎵*
+
+</td>
+</tr>
+</table>
 
 ---
 
