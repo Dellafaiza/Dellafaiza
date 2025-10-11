@@ -175,21 +175,6 @@ Stay tuned! 🚀
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dellafaiza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dellafaiza&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellafaiza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dellafaiza&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🐍 Watch Snake Eating My Contributions!
 
 <div align="center">
@@ -208,23 +193,20 @@ Stay tuned! 🚀
 
 ---
 
-## 👾 Pacman Eating My Contributions!
+## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph.svg">
-  </picture>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/Dellafaiza/Dellafaiza/blob/main/.github/workflows/pacman.yml">
-    <img src="https://img.shields.io/badge/View_Workflow-Pacman-blue?style=for-the-badge&logo=github-actions&logoColor=white" alt="Pacman Workflow"/>
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dellafaiza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dellafaiza&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellafaiza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dellafaiza&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
+
 
 ## 💼 What I Do
 
@@ -311,6 +293,21 @@ Frontend Development    ████████████░░░░░░�
 Mobile Development      ████████░░░░░░░░░░░░░░░░ 35%
 DevOps & Cloud          ████░░░░░░░░░░░░░░░░░░░░ 20%
 ```
+## 👾 Pacman Eating My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/pacman-contribution-graph.svg">
+  </picture>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/Dellafaiza/Dellafaiza/blob/main/.github/workflows/pacman.yml">
+    <img src="https://img.shields.io/badge/View_Workflow-Pacman-blue?style=for-the-badge&logo=github-actions&logoColor=white" alt="Pacman Workflow"/>
+  </a>
+</div>
 
 ---
 
