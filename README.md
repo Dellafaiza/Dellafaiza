@@ -175,23 +175,7 @@ Stay tuned! 🚀
 </table>
 
 ---
-## 🐍 Watch Snake Eating My Contributions!
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Dellafaiza/Dellafaiza/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/Dellafaiza/Dellafaiza/blob/main/.github/workflows/snake.yml">
-    <img src="https://img.shields.io/badge/View_Workflow-Snake-success?style=for-the-badge&logo=github-actions&logoColor=white" alt="Snake Workflow"/>
-  </a>
-</div>
-
----
 
 ## 📊 GitHub Stats
 
