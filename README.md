@@ -192,49 +192,6 @@ Stay tuned! 🚀
 ---
 
 
-## 💼 What I Do
-
-<div align="center">
-
-```php
-<?php
-
-class Developer extends Person
-{
-    private string $name = "Dellafaiza";
-    private string $role = "Full Stack Developer";
-    private string $focus = "Backend Development";
-    
-    public function getSkills(): array
-    {
-        return [
-            'backend' => ['Laravel', 'PHP', 'RESTful API', 'MySQL'],
-            'frontend' => ['React.js', 'JavaScript', 'Bootstrap'],
-            'mobile' => ['Kotlin', 'Java', 'Android'],
-            'tools' => ['Git', 'Postman', 'Figma', 'Android Studio']
-        ];
-    }
-    
-    public function getCurrentStatus(): string
-    {
-        return "🚀 Building portfolio & learning new technologies";
-    }
-    
-    public function getWorkflow(): array
-    {
-        return [
-            '☕ Coffee',
-            '💻 Code',
-            '🐛 Debug',
-            '🔄 Repeat'
-        ];
-    }
-}
-```
-
-</div>
-
----
 
 ## 🌍 Languages
 
