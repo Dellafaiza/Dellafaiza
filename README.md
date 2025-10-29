@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1peThmMTR6d2s3amRubDlxdGd4a2x6b3M4YzV5NTIxcGxidXVvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWRioIi6l3cAr3DkVV/giphy.gif" width="100%" alt="Coding GIF"/>
-</div>
+
 
 <h1 align="center">👋 Hi, I'm Della faiza!</h1>
 
