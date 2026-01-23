@@ -44,8 +44,6 @@ const dellafaiza = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -54,7 +52,6 @@ const dellafaiza = {
 ### 📱 Mobile App Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -70,7 +67,7 @@ const dellafaiza = {
 
 ### 📚 Other
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 </div>
 
@@ -82,7 +79,7 @@ const dellafaiza = {
 
 ```javascript
 const currentlyLearning = {
-  backend: ['Node.js', 'Express.js', 'Firebase'],
+  backend: ['Node.js'],
   focus: ['Mobile Backend Integration', 'Advanced API Design'],
   interests: ['Backend Architecture', 'Database Optimization', 'Microservices'],
   nextGoals: ['Cloud Services', 'Docker', 'CI/CD']
@@ -212,7 +209,7 @@ Stay tuned! 🚀
 
 | Backend | Frontend | Mobile | Others |
 |---------|----------|--------|--------|
-| ⚡ Laravel Framework | 🎨 React.js | 📱 Android Development | 🔧 Git & GitHub |
+| ⚡ Laravel Framework | 📱 Android Development | 🔧 Git & GitHub |
 | 🔐 Authentication | 💅 Responsive Design | 🎯 Kotlin & Java | 🧪 Postman API Testing |
 | 🗃️ Database Design | 🌐 REST API Consumption | 📲 Material Design | 🎨 UI/UX with Figma |
 | 🚀 RESTful API | ⚡ AJAX/JSON | 🔌 API Integration | 🐛 Debugging |
@@ -284,7 +281,7 @@ DevOps & Cloud          ████░░░░░░░░░░░░░░�
 <td width="50%">
 
 ### 🌱 I'm currently learning
-- Node.js & Express.js
+- Node.js & Next.js
 - Firebase & Cloud Functions
 - Mobile Backend Integration
 - Docker & CI/CD
@@ -298,7 +295,7 @@ DevOps & Cloud          ████░░░░░░░░░░░░░░�
 - Laravel & PHP Development
 - RESTful API Design
 - MySQL Database Design
-- React.js & JavaScript
+- JavaScript
 
 </td>
 <td width="50%">
@@ -336,7 +333,6 @@ DevOps & Cloud          ████░░░░░░░░░░░░░░�
 
 | Goal | Status | Priority |
 |------|--------|----------|
-| Master Node.js & Express.js | 🔄 In Progress | 🔥 High |
 | Build 3 Full-Stack Applications | 🔄 In Progress | 🔥 High |
 | Contribute to Open Source | 📋 Planned | 🌟 Medium |
 | Learn Firebase & Cloud Functions | 📋 Planned | 🌟 Medium |
